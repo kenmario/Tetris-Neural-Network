@@ -1,0 +1,20 @@
+﻿Build started 28/09/15 21:31:56.
+     1>Project "E:\GitHub\Tetris-Neural-Network\tetris_tutorial_sdl.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         E:\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\GitHub\Tetris-Neural-Network\Release\tetris_tutorial_sdl.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"E:\GitHub\Tetris-Neural-Network\Release\tetris_tutorial_sdl.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\GitHub\Tetris-Neural-Network\Release\tetris_tutorial_sdl.lib" /MACHINE:X86 /SAFESEH:NO Release\Board.obj
+         Release\Game.obj
+         Release\IO.obj
+         Release\Main.obj
+         Release\Pieces.obj
+            Creating library E:\GitHub\Tetris-Neural-Network\Release\tetris_tutorial_sdl.lib and object E:\GitHub\Tetris-Neural-Network\Release\tetris_tutorial_sdl.exp
+         Generating code
+         0 of 35 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         Finished generating code
+         tetris_tutorial_sdl.vcxproj -> E:\GitHub\Tetris-Neural-Network\Release\tetris_tutorial_sdl.exe
+     1>Done Building Project "E:\GitHub\Tetris-Neural-Network\tetris_tutorial_sdl.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.84
